@@ -73,6 +73,44 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 
 
+### 3.3 Tablet Preview
+
+Dokumentasi tampilan tablet menunjukkan adaptasi layout website pada ukuran layar menengah, termasuk bagian profil, pendidikan, pengalaman, dan project.
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Tablet Overview</b><br/>
+      <img src="Preview/tablet/tablet.png" width="260"/>
+    </td>
+    <td align="center" width="33%">
+      <b>About & Skills</b><br/>
+      <img src="Preview/tablet/about&amp;skills.png" width="260"/>
+    </td>
+    <td align="center" width="33%">
+      <b>Education</b><br/>
+      <img src="Preview/tablet/edu.png" width="260"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Career</b><br/>
+      <img src="Preview/tablet/karer.png" width="260"/>
+    </td>
+    <td align="center">
+      <b>Projects</b><br/>
+      <img src="Preview/tablet/project.png" width="260"/>
+    </td>
+    <td align="center">
+      <b>Footer</b><br/>
+      <img src="Preview/tablet/footer.png" width="260"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 
