@@ -113,33 +113,35 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 Dokumentasi tampilan tablet menunjukkan adaptasi layout website pada ukuran layar menengah, termasuk bagian profil, pendidikan, pengalaman, dan project.
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <b>Tablet Overview</b><br/>
-      <img src="Preview/tablet/tablet.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>Tablet Overview</strong><br><br>
+      <img src="Preview/tablet/tablet.png" width="85%" alt="Tablet Overview">
     </td>
-    <td align="center" width="33%">
-      <b>About & Skills</b><br/>
-      <img src="Preview/tablet/about&amp;skills.png" width="260"/>
-    </td>
-    <td align="center" width="33%">
-      <b>Education</b><br/>
-      <img src="Preview/tablet/edu.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>About &amp; Skills</strong><br><br>
+      <img src="Preview/tablet/about&amp;skills.png" width="85%" alt="Tablet About and Skills">
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Career</b><br/>
-      <img src="Preview/tablet/karer.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>Education</strong><br><br>
+      <img src="Preview/tablet/edu.png" width="85%" alt="Tablet Education">
     </td>
-    <td align="center">
-      <b>Projects</b><br/>
-      <img src="Preview/tablet/project.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>Career</strong><br><br>
+      <img src="Preview/tablet/karer.png" width="85%" alt="Tablet Career">
     </td>
-    <td align="center">
-      <b>Footer</b><br/>
-      <img src="Preview/tablet/footer.png" width="260"/>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Projects</strong><br><br>
+      <img src="Preview/tablet/project.png" width="85%" alt="Tablet Projects">
+    </td>
+    <td width="50%" align="center">
+      <strong>Footer</strong><br><br>
+      <img src="Preview/tablet/footer.png" width="85%" alt="Tablet Footer">
     </td>
   </tr>
 </table>
