@@ -54,20 +54,56 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 ### 3.2 Mobile Preview
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><b>Home</b><br/><img src="Preview/phone/home.png" width="130"/></td>
-    <td align="center"><b>About</b><br/><img src="Preview/phone/about.png" width="130"/></td>
-    <td align="center"><b>Career</b><br/><img src="Preview/phone/career.png" width="130"/></td>
-    <td align="center"><b>Education</b><br/><img src="Preview/phone/education.png" width="130"/></td>
-    <td align="center"><b>Skills</b><br/><img src="Preview/phone/skilss.png" width="130"/></td>
+    <td width="33.33%" align="center">
+      <strong>Home</strong><br><br>
+      <img src="Preview/phone/home.png" width="85%" alt="Mobile Home">
+    </td>
+    <td width="33.33%" align="center">
+      <strong>About</strong><br><br>
+      <img src="Preview/phone/about.png" width="85%" alt="Mobile About">
+    </td>
+    <td width="33.33%" align="center">
+      <strong>Career</strong><br><br>
+      <img src="Preview/phone/career.png" width="85%" alt="Mobile Career">
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Certifications</b><br/><img src="Preview/phone/certif.png" width="130"/></td>
-    <td align="center"><b>Projects</b><br/><img src="Preview/phone/project.png" width="130"/></td>
-    <td align="center"><b>Get in Touch</b><br/><img src="Preview/phone/getintoch.png" width="130"/></td>
-    <td align="center"><b>Navigation</b><br/><img src="Preview/phone/hamburg.png" width="130"/></td>
-    <td align="center"><b>Footer</b><br/><img src="Preview/phone/footer.png" width="130"/></td>
+    <td width="33.33%" align="center">
+      <strong>Education</strong><br><br>
+      <img src="Preview/phone/education.png" width="85%" alt="Mobile Education">
+    </td>
+    <td width="33.33%" align="center">
+      <strong>Skills</strong><br><br>
+      <img src="Preview/phone/skilss.png" width="85%" alt="Mobile Skills">
+    </td>
+    <td width="33.33%" align="center">
+      <strong>Certifications</strong><br><br>
+      <img src="Preview/phone/certif.png" width="85%" alt="Mobile Certifications">
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center">
+      <strong>Projects</strong><br><br>
+      <img src="Preview/phone/project.png" width="85%" alt="Mobile Projects">
+    </td>
+    <td width="33.33%" align="center">
+      <strong>Get in Touch</strong><br><br>
+      <img src="Preview/phone/getintoch.png" width="85%" alt="Mobile Get in Touch">
+    </td>
+    <td width="33.33%" align="center">
+      <strong>Navigation</strong><br><br>
+      <img src="Preview/phone/hamburg.png" width="85%" alt="Mobile Navigation">
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center">
+      <strong>Footer</strong><br><br>
+      <img src="Preview/phone/footer.png" width="85%" alt="Mobile Footer">
+    </td>
+    <td width="33.33%"></td>
+    <td width="33.33%"></td>
   </tr>
 </table>
 
