@@ -162,7 +162,97 @@ Website dibagi menjadi beberapa bagian utama:
 
 ---
 
-## ⚡ 6. Technical Highlights
+## 📁 6. Project Structure
+
+The project uses a simple and organized directory structure to separate HTML pages, CSS stylesheets, JavaScript functionality, image assets, certificates, and interface documentation.
+
+```text
+My-Portofolio/
+│
+├── certificate.html
+├── cv.html
+├── index.html
+├── mini_project.html
+├── README.md
+├── script.js
+│
+├── css/
+│   ├── certificate.css
+│   ├── cv.css
+│   ├── mini_project.css
+│   └── styles.css
+│
+├── image/
+│   ├── BANK-RAYA.png
+│   ├── bg.jpg
+│   ├── imul.png
+│   ├── PLN-Icon-Plus.png
+│   ├── validasi.webp
+│   │
+│   ├── favicon_io/
+│   │   ├── favicon.ico
+│   │   ├── favicon-16x16.png
+│   │   ├── favicon-32x32.png
+│   │   ├── android-chrome-192x192.png
+│   │   ├── android-chrome-512x512.png
+│   │   ├── apple-touch-icon.png
+│   │   └── site.webmanifest
+│   │
+│   ├── icon/
+│   │   └── [Technology, platform, and organization icons]
+│   │
+│   ├── project/
+│   │   └── [Project and application preview images]
+│   │
+│   └── sertif/
+│       ├── 2023/
+│       │   └── [Certificate images]
+│       │
+│       ├── 2025/
+│       │   ├── [Certificate images]
+│       │   ├── gc/
+│       │   ├── HR/
+│       │   └── SV/
+│       │
+│       └── 2026/
+│           ├── Dicoding/
+│           └── IBM/
+│
+└── Preview/
+    ├── LandingPage.png
+    ├── Project.png
+    │
+    ├── phone/
+    │   └── [Mobile interface screenshots]
+    │
+    └── tablet/
+        └── [Tablet interface screenshots]
+```
+
+### Directory Description
+
+| File / Directory | Description |
+|---|---|
+| `index.html` | Main portfolio landing page. |
+| `certificate.html` | Page displaying professional certificates and learning achievements. |
+| `cv.html` | Online CV page. |
+| `mini_project.html` | Page showcasing mini projects and practical work. |
+| `script.js` | JavaScript functionality and interactive website behavior. |
+| `css/` | Contains CSS stylesheets for the website and its individual pages. |
+| `image/` | Stores website images, profile assets, company logos, and other visual resources. |
+| `image/icon/` | Technology, platform, and organization icons. |
+| `image/project/` | Images used to illustrate projects and applications. |
+| `image/sertif/` | Certificate documentation organized by year and provider. |
+| `image/favicon_io/` | Website favicon and browser application icons. |
+| `Preview/` | Interface documentation and website screenshots. |
+| `Preview/phone/` | Mobile interface screenshots. |
+| `Preview/tablet/` | Tablet interface screenshots. |
+
+The directory structure is designed to keep the source code and visual assets organized, making the portfolio easier to maintain and update.
+
+---
+
+## ⚡ 7. Technical Highlights
 
 ### Responsive Web Design
 Website dirancang agar dapat menyesuaikan ukuran layar desktop, tablet, dan smartphone menggunakan CSS Media Queries.
@@ -181,7 +271,7 @@ Git dan GitHub digunakan untuk mengelola perubahan kode, dokumentasi, serta riwa
 
 ---
 
-## 📚 7. Development & Key Learnings
+## 📚 8. Development & Key Learnings
 
 Beberapa pembelajaran yang diperoleh selama pengembangan:
 
@@ -196,7 +286,7 @@ Beberapa pembelajaran yang diperoleh selama pengembangan:
 
 ---
 
-## 🗺️ 8. Future Development Roadmap
+## 🗺️ 9. Future Development Roadmap
 
 Beberapa pengembangan yang dapat dilakukan selanjutnya:
 
@@ -210,7 +300,7 @@ Beberapa pengembangan yang dapat dilakukan selanjutnya:
 ---
 
 
-## 📊 9. Project Status
+## 📊 10. Project Status
 
 ![Status](https://img.shields.io/badge/Status-Archived-lightgrey)
 ![Maintenance](https://img.shields.io/badge/Maintenance-Discontinued-red)
@@ -227,7 +317,7 @@ Source code dan dokumentasi visual tetap tersedia untuk keperluan referensi dan 
 
 ---
 
-## 👨‍💻 10. Author
+## 👨‍💻 11. Author
 
 **Imammul Arif**
 
