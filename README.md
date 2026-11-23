@@ -1,111 +1,194 @@
 # 🚀 Personal Portfolio Website
 
-A highly responsive, production-ready personal branding platform designed and engineered from scratch to elegantly showcase professional profiles, core technical stacks, and end-to-end data analytics/engineering repositories.
-
 ![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-yellow)
 ![Responsive Design](https://img.shields.io/badge/UI-Responsive-success)
+![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-black)
 ![Portfolio](https://img.shields.io/badge/Personal-Portfolio-purple)
 
----
+Personal Portfolio Website merupakan platform digital yang dikembangkan secara mandiri untuk menampilkan profil profesional, pengalaman kerja, pendidikan, sertifikasi, keahlian teknis, dan berbagai project di bidang teknologi informasi, data analytics, serta software development.
 
-## 📌 Project Overview
-
-This project serves as my centralized **digital flagship portfolio**. Engineered natively without heavy third-party UI templates, the development architecture heavily prioritizes fluid user experience (UX), modern layout mechanics, and structural frontend clean-code standards.
-
-The interface functions as an interactive resume, bridging the gap between cross-platform data projects and non-technical stakeholders or tech recruiters.
+Project ini dibangun menggunakan HTML5, CSS3, dan Vanilla JavaScript dengan fokus pada desain responsif, navigasi yang intuitif, serta pengalaman pengguna yang konsisten di berbagai perangkat.
 
 ---
 
-## 🎯 Project Objectives
+## 📌 1. Project Overview
 
-- **Personal Branding Engine:** Establish a clean, professional online footprint to attract tech recruiters.
-- **Native Implementation:** Master raw vanilla frontend standards (HTML5/CSS3/JS) to build layout layers independently.
-- **Fluid UI/UX Execution:** Design intuitive navigation pipelines, typography scales, and structural content visual hierarchies.
-- **Cross-Device Adaptation:** Optimize responsive viewport rendering for seamless viewing on smart devices.
+Website ini berfungsi sebagai **digital professional portfolio** yang mengintegrasikan informasi pribadi dan profesional ke dalam satu platform.
 
----
+Melalui website ini, pengunjung dapat mengenal latar belakang pendidikan, pengalaman profesional, kompetensi teknis, serta berbagai project yang pernah dikembangkan.
 
-## 🌐 Live Production Demo
+Pengembangan dilakukan secara mandiri tanpa bergantung pada template UI pihak ketiga, sehingga struktur halaman, styling, dan interaksi dibuat menggunakan teknologi frontend native.
 
-✨ **Explore the Interactive Site:** [Imammul Arif Web Portfolio](https://imammularif.github.io/My-Portofolio-1.0/)
+### Project Objectives
 
----
-
-## 📸 Interface Preview
-
-<div align="center">
-
-
-| **Main Workspace Landing Header** | **Dynamic Projects Grid Display** |
-| :---: | :---: |
-| <img src="https://github.com/imammularif/My-Portofolio/blob/main/Preview/LandingPage.png" width="420"/> | <img src="https://github.com/imammularif/My-Portofolio/blob/main/Preview/Project.png" width="420"/> |
-
-<br>
-
-*A unified, responsive ecosystem designed to host comprehensive technical capabilities and experience timelines.*
-
-</div>
+- **Professional Branding:** Membangun identitas profesional secara digital.
+- **Career Showcase:** Menampilkan pengalaman kerja, pendidikan, dan sertifikasi.
+- **Technical Portfolio:** Mendokumentasikan project dan kemampuan teknis.
+- **Responsive Experience:** Memberikan tampilan optimal pada desktop maupun perangkat mobile.
+- **Frontend Development:** Mengimplementasikan HTML, CSS, dan JavaScript secara mandiri.
 
 ---
 
-## 🛠️ Architecture Tech Stack
+## 🌐 2. Live Demo
 
-### 🌐 Core Frontend Layer
-- **Semantic Structure:** HTML5 DOM Architecture
-- **Interactive Logic:** Vanilla JavaScript (ES6+)
+✨ **Website:** [Imammul Arif – Personal Portfolio](https://imammularif.github.io/My-Portofolio-1.0/)
 
-### 🎨 Layout & Animations Engine
-- **Fluid Frameworks:** CSS Flexbox & CSS Grid Layouts
-- **Responsiveness Matrix:** Advanced Media Queries Breakpoints
-- **Micro-interactions:** Custom CSS Keyframe Animations & Transitions
-
-### ⚙️ Development Pipeline
-- **IDE Environment:** Visual Studio Code
-- **Debugging Framework:** Chrome Developer Tools (Lighthouse, Inspector)
-- **Version Management:** Git Ecosystem & GitHub Pages Architecture
+<text>Repository: [My-Portofolio-1.0](https://github.com/imammularif/My-Portofolio-1.0)</text>
 
 ---
 
-## 🧩 Website Interface Structure
+## 📸 3. Interface Documentation
 
-The system deployment partitions the presentation layer into distinct functional blocks:
-- **Hero Module:** Concise high-impact personal statement and introductory vectors.
-- **About Sub-layer:** Contextual overview of core methodologies and operational principles.
-- **Skills Array:** Visual taxonomy of technical languages, databases, and monitoring tools.
-- **Timeline Engine:** Interactive chronological index tracking training milestones and achievements.
-- **Projects Showcase Grid:** Dynamic responsive directory linking out to production repositories.
-- **Contact Access Frame:** Direct endpoints linking verified email and business networks.
+Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat desktop dan mobile.
+
+### 3.1 Desktop Preview
+
+| Landing Page | Projects Section |
+|:---:|:---:|
+| <img src="Preview/LandingPage.png" width="420" alt="Desktop Landing Page"/> | <img src="Preview/Project.png" width="420" alt="Desktop Projects Section"/> |
+
+
+
+
+### 3.2 Mobile Preview
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Home</b><br/><img src="Preview/phone/home.png" width="130"/></td>
+    <td align="center"><b>About</b><br/><img src="Preview/phone/about.png" width="130"/></td>
+    <td align="center"><b>Career</b><br/><img src="Preview/phone/career.png" width="130"/></td>
+    <td align="center"><b>Education</b><br/><img src="Preview/phone/education.png" width="130"/></td>
+    <td align="center"><b>Skills</b><br/><img src="Preview/phone/skilss.png" width="130"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Certifications</b><br/><img src="Preview/phone/certif.png" width="130"/></td>
+    <td align="center"><b>Projects</b><br/><img src="Preview/phone/project.png" width="130"/></td>
+    <td align="center"><b>Get in Touch</b><br/><img src="Preview/phone/getintoch.png" width="130"/></td>
+    <td align="center"><b>Navigation</b><br/><img src="Preview/phone/hamburg.png" width="130"/></td>
+    <td align="center"><b>Footer</b><br/><img src="Preview/phone/footer.png" width="130"/></td>
+  </tr>
+</table>
+
+
+
 
 ---
 
-## ⚡ Technical Highlights
+## 🛠️ 4. Technology Stack
 
-- **Zero-Dependency Styling:** Custom layout rendering engineered purely through modern Grid and Flexbox mechanics—eliminating unnecessary package bloat.
-- **Custom Chronology Matrix:** Hand-coded timeline system providing accessible reading frameworks.
-- **Performance Optimized Interactions:** Lightweight CSS micro-interactions ensuring high performance benchmarks.
+### 4.1 Frontend Development
+
+| Technology | Implementation |
+|---|---|
+| HTML5 | Struktur dan semantic markup website |
+| CSS3 | Styling, layout, animasi, dan responsive design |
+| JavaScript (ES6+) | Interaksi dan dynamic behavior |
+
+### 4.2 Layout & Responsive Design
+
+- CSS Flexbox untuk pengaturan layout.
+- CSS Grid untuk struktur konten.
+- Media Queries untuk berbagai ukuran layar.
+- CSS Transitions dan Keyframe Animations untuk micro-interactions.
+- Responsive navigation untuk perangkat mobile.
+
+### 4.3 Development Tools
+
+| Tools | Purpose |
+|---|---|
+| Visual Studio Code | Code editor |
+| Google Chrome DevTools | Debugging dan inspeksi tampilan |
+| Git | Version control |
+| GitHub | Repository management |
+| GitHub Pages | Website deployment |
 
 ---
 
-## 🧠 Key Learnings
+## 🧩 5. Website Structure & Features
 
-- Bridging raw interface designs smoothly into live, deployable system code structures.
-- Debugging variable breakpoint margins to guarantee zero layout cracking on narrow viewports.
-- Building a sustainable, self-managed portfolio ecosystem for deployment hosting.
+Website dibagi menjadi beberapa bagian utama:
+
+| Section | Description |
+|---|---|
+| Home | Halaman utama dan pengenalan profil profesional |
+| About | Informasi singkat mengenai latar belakang dan profil |
+| Career | Timeline pengalaman profesional |
+| Education | Riwayat pendidikan |
+| Skills | Daftar kompetensi dan teknologi yang dikuasai |
+| Certifications | Dokumentasi sertifikasi dan pelatihan |
+| Projects | Showcase berbagai project yang dikembangkan |
+| Get in Touch | Informasi dan akses kontak profesional |
+| Footer | Informasi penutup dan navigasi tambahan |
 
 ---
 
-## 🚀 Future Roadmap Improvements
+## ⚡ 6. Technical Highlights
 
-- 🌙 **Theme Control:** Inject custom CSS variable hooks to implement a Dark Mode / Light Mode toggle.
-- 📬 **Serverless Ingestion:** Integrate API services (e.g., EmailJS or Formspree) for automated form handling.
-- ⚡ **Performance Scaling:** Implement image lazy-loading sequences to maximize initial landing speeds.
+### Responsive Web Design
+Website dirancang agar dapat menyesuaikan ukuran layar desktop, tablet, dan smartphone menggunakan CSS Media Queries.
+
+### Native Frontend Implementation
+Struktur dan interaksi dikembangkan menggunakan HTML5, CSS3, dan Vanilla JavaScript tanpa ketergantungan pada framework frontend besar.
+
+### Custom UI Components
+Elemen antarmuka seperti navigation menu, timeline, project cards, dan berbagai bagian halaman dirancang dan dikembangkan sesuai kebutuhan portfolio.
+
+### Lightweight Architecture
+Penggunaan teknologi frontend native membantu menjaga struktur project tetap sederhana dan mudah dikelola.
+
+### Version Control
+Git dan GitHub digunakan untuk mengelola perubahan kode, dokumentasi, serta riwayat pengembangan project.
 
 ---
 
-## 👨‍💻 Author
-**Imammul Arif**  
-📍 Indonesia  
-🔗 LinkedIn: https://linkedin.com/in/imammularif  
-🔗 GitHub: https://github.com/imammularif
+## 📚 7. Development & Key Learnings
+
+Beberapa pembelajaran yang diperoleh selama pengembangan:
+
+- Mengimplementasikan struktur semantic HTML.
+- Mengembangkan layout menggunakan CSS Flexbox dan Grid.
+- Mengatur responsive breakpoint untuk berbagai perangkat.
+- Mengembangkan interaksi menggunakan Vanilla JavaScript.
+- Memahami konsistensi UI/UX antara desktop dan mobile.
+- Melakukan debugging menggunakan Chrome Developer Tools.
+- Mengelola source code dan dokumentasi menggunakan Git dan GitHub.
+- Melakukan deployment website melalui GitHub Pages.
+
+---
+
+## 🗺️ 8. Future Development Roadmap
+
+Beberapa pengembangan yang dapat dilakukan selanjutnya:
+
+- [ ] **Dark Mode:** Menambahkan pilihan Light Mode dan Dark Mode.
+- [ ] **Contact Form Integration:** Mengintegrasikan layanan seperti EmailJS atau Formspree.
+- [ ] **Performance Optimization:** Mengoptimalkan ukuran gambar dan implementasi lazy loading.
+- [ ] **SEO Enhancement:** Meningkatkan metadata dan optimasi mesin pencari.
+- [ ] **Accessibility Improvement:** Meningkatkan aksesibilitas dan pengalaman navigasi.
+- [ ] **UI/UX Enhancement:** Melakukan penyempurnaan tampilan dan interaksi website.
+
+---
+
+## 📊 9. Project Status
+
+**Status: Active Portfolio Website**
+
+Website telah dipublikasikan melalui GitHub Pages dan dapat diakses secara online.
+
+Dokumentasi project mencakup tampilan desktop dan mobile sebagai referensi implementasi responsive design.
+
+---
+
+## 👨‍💻 10. Author
+
+**Imammul Arif**
+
+- Location: Indonesia
+- LinkedIn: [linkedin.com/in/imammularif](https://linkedin.com/in/imammularif)
+- GitHub: [github.com/imammularif](https://github.com/imammularif)
+
+---
+
+*Developed independently as a personal branding and professional portfolio project.*
