@@ -56,54 +56,54 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 <table>
   <tr>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>Home</strong><br><br>
       <img src="Preview/phone/home.png" width="85%" alt="Mobile Home">
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>About</strong><br><br>
       <img src="Preview/phone/about.png" width="85%" alt="Mobile About">
     </td>
-    <td width="33.33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <strong>Career</strong><br><br>
       <img src="Preview/phone/career.png" width="85%" alt="Mobile Career">
     </td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>Education</strong><br><br>
       <img src="Preview/phone/education.png" width="85%" alt="Mobile Education">
     </td>
-    <td width="33.33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <strong>Skills</strong><br><br>
       <img src="Preview/phone/skilss.png" width="85%" alt="Mobile Skills">
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>Certifications</strong><br><br>
       <img src="Preview/phone/certif.png" width="85%" alt="Mobile Certifications">
     </td>
   </tr>
   <tr>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>Projects</strong><br><br>
       <img src="Preview/phone/project.png" width="85%" alt="Mobile Projects">
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>Get in Touch</strong><br><br>
       <img src="Preview/phone/getintoch.png" width="85%" alt="Mobile Get in Touch">
     </td>
-    <td width="33.33%" align="center">
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <strong>Navigation</strong><br><br>
       <img src="Preview/phone/hamburg.png" width="85%" alt="Mobile Navigation">
     </td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <strong>Footer</strong><br><br>
       <img src="Preview/phone/footer.png" width="85%" alt="Mobile Footer">
     </td>
-    <td width="33.33%"></td>
-    <td width="33.33%"></td>
   </tr>
 </table>
 
