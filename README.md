@@ -209,13 +209,21 @@ Beberapa pengembangan yang dapat dilakukan selanjutnya:
 
 ---
 
+
 ## 📊 9. Project Status
 
-**Status: Active Portfolio Website**
+![Status](https://img.shields.io/badge/Status-Archived-lightgrey)
+![Maintenance](https://img.shields.io/badge/Maintenance-Discontinued-red)
+![Deployment](https://img.shields.io/badge/GitHub%20Pages-Inactive-orange)
 
-Website telah dipublikasikan melalui GitHub Pages dan dapat diakses secara online.
+**Status: Archived — No Longer Maintained**
 
-Dokumentasi project mencakup tampilan desktop dan mobile sebagai referensi implementasi responsive design.
+Website portfolio ini sudah tidak aktif dan tidak lagi dikembangkan maupun dipelihara sebagai website publik.
+
+Repository tetap dipertahankan sebagai dokumentasi perjalanan pengembangan, implementasi frontend, responsive design, serta personal branding.
+
+Source code dan dokumentasi visual tetap tersedia untuk keperluan referensi dan portfolio development history.
+
 
 ---
 
