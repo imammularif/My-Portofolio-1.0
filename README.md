@@ -54,20 +54,56 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 ### 3.2 Mobile Preview
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><b>Home</b><br/><img src="Preview/phone/home.png" width="130"/></td>
-    <td align="center"><b>About</b><br/><img src="Preview/phone/about.png" width="130"/></td>
-    <td align="center"><b>Career</b><br/><img src="Preview/phone/career.png" width="130"/></td>
-    <td align="center"><b>Education</b><br/><img src="Preview/phone/education.png" width="130"/></td>
-    <td align="center"><b>Skills</b><br/><img src="Preview/phone/skilss.png" width="130"/></td>
+    <td width="50%" align="center">
+      <strong>Home</strong><br><br>
+      <img src="Preview/phone/home.png" width="85%" alt="Mobile Home">
+    </td>
+    <td width="50%" align="center">
+      <strong>About</strong><br><br>
+      <img src="Preview/phone/about.png" width="85%" alt="Mobile About">
+    </td>
   </tr>
   <tr>
-    <td align="center"><b>Certifications</b><br/><img src="Preview/phone/certif.png" width="130"/></td>
-    <td align="center"><b>Projects</b><br/><img src="Preview/phone/project.png" width="130"/></td>
-    <td align="center"><b>Get in Touch</b><br/><img src="Preview/phone/getintoch.png" width="130"/></td>
-    <td align="center"><b>Navigation</b><br/><img src="Preview/phone/hamburg.png" width="130"/></td>
-    <td align="center"><b>Footer</b><br/><img src="Preview/phone/footer.png" width="130"/></td>
+    <td width="50%" align="center">
+      <strong>Career</strong><br><br>
+      <img src="Preview/phone/career.png" width="85%" alt="Mobile Career">
+    </td>
+    <td width="50%" align="center">
+      <strong>Education</strong><br><br>
+      <img src="Preview/phone/education.png" width="85%" alt="Mobile Education">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Skills</strong><br><br>
+      <img src="Preview/phone/skilss.png" width="85%" alt="Mobile Skills">
+    </td>
+    <td width="50%" align="center">
+      <strong>Certifications</strong><br><br>
+      <img src="Preview/phone/certif.png" width="85%" alt="Mobile Certifications">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Projects</strong><br><br>
+      <img src="Preview/phone/project.png" width="85%" alt="Mobile Projects">
+    </td>
+    <td width="50%" align="center">
+      <strong>Get in Touch</strong><br><br>
+      <img src="Preview/phone/getintoch.png" width="85%" alt="Mobile Get in Touch">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Navigation</strong><br><br>
+      <img src="Preview/phone/hamburg.png" width="85%" alt="Mobile Navigation">
+    </td>
+    <td width="50%" align="center">
+      <strong>Footer</strong><br><br>
+      <img src="Preview/phone/footer.png" width="85%" alt="Mobile Footer">
+    </td>
   </tr>
 </table>
 
@@ -77,33 +113,35 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 Dokumentasi tampilan tablet menunjukkan adaptasi layout website pada ukuran layar menengah, termasuk bagian profil, pendidikan, pengalaman, dan project.
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <b>Tablet Overview</b><br/>
-      <img src="Preview/tablet/tablet.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>Tablet Overview</strong><br><br>
+      <img src="Preview/tablet/tablet.png" width="85%" alt="Tablet Overview">
     </td>
-    <td align="center" width="33%">
-      <b>About & Skills</b><br/>
-      <img src="Preview/tablet/about&amp;skills.png" width="260"/>
-    </td>
-    <td align="center" width="33%">
-      <b>Education</b><br/>
-      <img src="Preview/tablet/edu.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>About &amp; Skills</strong><br><br>
+      <img src="Preview/tablet/about&amp;skills.png" width="85%" alt="Tablet About and Skills">
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Career</b><br/>
-      <img src="Preview/tablet/karer.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>Education</strong><br><br>
+      <img src="Preview/tablet/edu.png" width="85%" alt="Tablet Education">
     </td>
-    <td align="center">
-      <b>Projects</b><br/>
-      <img src="Preview/tablet/project.png" width="260"/>
+    <td width="50%" align="center">
+      <strong>Career</strong><br><br>
+      <img src="Preview/tablet/karer.png" width="85%" alt="Tablet Career">
     </td>
-    <td align="center">
-      <b>Footer</b><br/>
-      <img src="Preview/tablet/footer.png" width="260"/>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Projects</strong><br><br>
+      <img src="Preview/tablet/project.png" width="85%" alt="Tablet Projects">
+    </td>
+    <td width="50%" align="center">
+      <strong>Footer</strong><br><br>
+      <img src="Preview/tablet/footer.png" width="85%" alt="Tablet Footer">
     </td>
   </tr>
 </table>
@@ -162,7 +200,97 @@ Website dibagi menjadi beberapa bagian utama:
 
 ---
 
-## ⚡ 6. Technical Highlights
+## 📁 6. Project Structure
+
+The project uses a simple and organized directory structure to separate HTML pages, CSS stylesheets, JavaScript functionality, image assets, certificates, and interface documentation.
+
+```text
+My-Portofolio/
+│
+├── certificate.html
+├── cv.html
+├── index.html
+├── mini_project.html
+├── README.md
+├── script.js
+│
+├── css/
+│   ├── certificate.css
+│   ├── cv.css
+│   ├── mini_project.css
+│   └── styles.css
+│
+├── image/
+│   ├── BANK-RAYA.png
+│   ├── bg.jpg
+│   ├── imul.png
+│   ├── PLN-Icon-Plus.png
+│   ├── validasi.webp
+│   │
+│   ├── favicon_io/
+│   │   ├── favicon.ico
+│   │   ├── favicon-16x16.png
+│   │   ├── favicon-32x32.png
+│   │   ├── android-chrome-192x192.png
+│   │   ├── android-chrome-512x512.png
+│   │   ├── apple-touch-icon.png
+│   │   └── site.webmanifest
+│   │
+│   ├── icon/
+│   │   └── [Technology, platform, and organization icons]
+│   │
+│   ├── project/
+│   │   └── [Project and application preview images]
+│   │
+│   └── sertif/
+│       ├── 2023/
+│       │   └── [Certificate images]
+│       │
+│       ├── 2025/
+│       │   ├── [Certificate images]
+│       │   ├── gc/
+│       │   ├── HR/
+│       │   └── SV/
+│       │
+│       └── 2026/
+│           ├── Dicoding/
+│           └── IBM/
+│
+└── Preview/
+    ├── LandingPage.png
+    ├── Project.png
+    │
+    ├── phone/
+    │   └── [Mobile interface screenshots]
+    │
+    └── tablet/
+        └── [Tablet interface screenshots]
+```
+
+### Directory Description
+
+| File / Directory | Description |
+|---|---|
+| `index.html` | Main portfolio landing page. |
+| `certificate.html` | Page displaying professional certificates and learning achievements. |
+| `cv.html` | Online CV page. |
+| `mini_project.html` | Page showcasing mini projects and practical work. |
+| `script.js` | JavaScript functionality and interactive website behavior. |
+| `css/` | Contains CSS stylesheets for the website and its individual pages. |
+| `image/` | Stores website images, profile assets, company logos, and other visual resources. |
+| `image/icon/` | Technology, platform, and organization icons. |
+| `image/project/` | Images used to illustrate projects and applications. |
+| `image/sertif/` | Certificate documentation organized by year and provider. |
+| `image/favicon_io/` | Website favicon and browser application icons. |
+| `Preview/` | Interface documentation and website screenshots. |
+| `Preview/phone/` | Mobile interface screenshots. |
+| `Preview/tablet/` | Tablet interface screenshots. |
+
+The directory structure is designed to keep the source code and visual assets organized, making the portfolio easier to maintain and update.
+
+---
+
+## ⚡ 7. Technical Highlights
 
 ### Responsive Web Design
 Website dirancang agar dapat menyesuaikan ukuran layar desktop, tablet, dan smartphone menggunakan CSS Media Queries.
@@ -181,7 +309,7 @@ Git dan GitHub digunakan untuk mengelola perubahan kode, dokumentasi, serta riwa
 
 ---
 
-## 📚 7. Development & Key Learnings
+## 📚 8. Development & Key Learnings
 
 Beberapa pembelajaran yang diperoleh selama pengembangan:
 
@@ -196,7 +324,7 @@ Beberapa pembelajaran yang diperoleh selama pengembangan:
 
 ---
 
-## 🗺️ 8. Future Development Roadmap
+## 🗺️ 9. Future Development Roadmap
 
 Beberapa pengembangan yang dapat dilakukan selanjutnya:
 
@@ -209,17 +337,25 @@ Beberapa pengembangan yang dapat dilakukan selanjutnya:
 
 ---
 
-## 📊 9. Project Status
 
-**Status: Active Portfolio Website**
+## 📊 10. Project Status
 
-Website telah dipublikasikan melalui GitHub Pages dan dapat diakses secara online.
+![Status](https://img.shields.io/badge/Status-Archived-lightgrey)
+![Maintenance](https://img.shields.io/badge/Maintenance-Discontinued-red)
+![Deployment](https://img.shields.io/badge/GitHub%20Pages-Inactive-orange)
 
-Dokumentasi project mencakup tampilan desktop dan mobile sebagai referensi implementasi responsive design.
+**Status: Archived — No Longer Maintained**
+
+Website portfolio ini sudah tidak aktif dan tidak lagi dikembangkan maupun dipelihara sebagai website publik.
+
+Repository tetap dipertahankan sebagai dokumentasi perjalanan pengembangan, implementasi frontend, responsive design, serta personal branding.
+
+Source code dan dokumentasi visual tetap tersedia untuk keperluan referensi dan portfolio development history.
+
 
 ---
 
-## 👨‍💻 10. Author
+## 👨‍💻 11. Author
 
 **Imammul Arif**
 
