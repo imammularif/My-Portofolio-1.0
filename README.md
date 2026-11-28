@@ -109,9 +109,10 @@ Dokumentasi berikut menampilkan implementasi antarmuka website pada perangkat de
 
 
 
+
 ### 3.3 Tablet Preview
 
-Dokumentasi tampilan tablet menunjukkan adaptasi layout website pada ukuran layar menengah, termasuk bagian profil, pendidikan, pengalaman, dan project.
+This section documents the website's responsive layout on tablet-sized screens, showcasing the visual adaptation and content presentation across key sections, including the overview, profile, skills, education, career journey, projects, and footer.
 
 <table>
   <tr>
@@ -126,25 +127,25 @@ Dokumentasi tampilan tablet menunjukkan adaptasi layout website pada ukuran laya
   </tr>
   <tr>
     <td width="50%" align="center">
-      <strong>Education</strong><br><br>
-      <img src="Preview/tablet/edu.png" width="85%" alt="Tablet Education">
+      <strong>Education &amp; Career</strong><br><br>
+      <img src="Preview/tablet/education&amp;career.png" width="85%" alt="Tablet Education and Career">
     </td>
-    <td width="50%" align="center">
-      <strong>Career</strong><br><br>
-      <img src="Preview/tablet/karer.png" width="85%" alt="Tablet Career">
-    </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <strong>Projects</strong><br><br>
       <img src="Preview/tablet/project.png" width="85%" alt="Tablet Projects">
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <strong>Footer</strong><br><br>
       <img src="Preview/tablet/footer.png" width="85%" alt="Tablet Footer">
     </td>
+    <td width="50%" align="center">
+      <em>End of Tablet Preview</em>
+    </td>
   </tr>
 </table>
+
 
 
 
