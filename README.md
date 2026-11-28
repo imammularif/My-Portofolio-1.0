@@ -128,7 +128,7 @@ This section documents the website's responsive layout on tablet-sized screens, 
   <tr>
     <td width="50%" align="center">
       <strong>Education &amp; Career</strong><br><br>
-      <img src="Preview/tablet/education&amp;career.png" width="85%" alt="Tablet Education and Career">
+      <img src="Preview/tablet/educar.png" width="85%" alt="Tablet Education and Career">
     </td>
     <td width="50%" align="center">
       <strong>Projects</strong><br><br>
